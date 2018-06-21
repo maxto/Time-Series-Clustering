@@ -4,10 +4,38 @@ Time series clustering is to partition time series data into groups based on sim
 
 Time series clustering belongs to the unsupervised learning methods and it can be divided in different parts:
 
-- Distance and dissimilarity
+- Distance and similarity/dissimilarity
   - Shape-based
+    - Lock-step
+      - Euclidean
+      - Manhattan
+      - Minkowski
+      - Mahalanobis
+      - Correlation
+        - Pearson
+        - Spearman
+        - Kendall tau
+      - Cross-Correlation
+      - Dissim
+     - Elastic measure
+      - Dynamic Time Warping (DTW)
+      - Frechet distance
+      - Longest Common Subsequence (LCSS)
   - Features-based
-  - sructure-based
+    - Partial/Autocorrelation
+    - Fourier
+    - Wavelet
+    - Periodogram
+    - SAX
+    - Spectral Density
+  - Structure-based
+    - Model
+      - Cepstral
+    - Compression
+      - Compression
+      - Complexity invariant
+      - Permutation distribution based distance
+      
     
 - clustering methods
   - Partitioning methods
@@ -15,6 +43,7 @@ Time series clustering belongs to the unsupervised learning methods and it can b
   - Fuzzy clustering
   - Density-based clustering
   - Model-based clustering
+  - Grid-based clustering
  
  - cluster validity measures
   - Global 
