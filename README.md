@@ -21,6 +21,10 @@ Time series clustering belongs to the unsupervised learning methods and it can b
       - Dynamic Time Warping (DTW)
       - Frechet distance
       - Longest Common Subsequence (LCSS)
+      - Shape-based
+      - U-Shapelets
+     - Kernel
+      - Global Alignement Kernel (GAK)
   - Features-based
     - Partial/Autocorrelation
     - Fourier
@@ -38,12 +42,33 @@ Time series clustering belongs to the unsupervised learning methods and it can b
       
     
 - clustering methods
-  - Partitioning methods
+  - Partitioning
+    - K-Means
+    - Self-organizing map (SOM)
+    - K-nearest Neighbour (KNN)
+    - Expectation Maximization (EM)
+    - K-Medoids (PAM)
+    - Clustering Large Applications (CLARA)
+    - K-Shape
+    - TADPole clustering (TADP)
+    - Affinity Propagation (AP)
   - Hierarchical clustering
+    - Agglomerative
+    - Divisive
   - Fuzzy clustering
+    - Fuzzy C-means (FCM)
   - Density-based clustering
+    - Density-Based Spatial Clustering and Application with Noise (DBSCAN)
+    - Shared Nearest Neighbor (SNN)
   - Model-based clustering
+    - Finite Mixture Model
   - Grid-based clustering
+    - STatistical INformation Grid-based method (STING)
+    - Clustering In QUEst (CLIQUE)
+  - Deep clustering
+    - Deep Continuous Clustering (DOC)
+  - continuous objective optimization
+    - Robust Continuous Clustering
  
  - cluster validity measures
   - Global 
