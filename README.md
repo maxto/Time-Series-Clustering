@@ -11,6 +11,9 @@ Time series clustering belongs to the unsupervised learning methods and it can b
       - Manhattan
       - Minkowski
       - Mahalanobis
+      - Maximum
+      - Canberra
+      - Binary
       - Correlation
         - Pearson
         - Spearman
@@ -54,6 +57,13 @@ Time series clustering belongs to the unsupervised learning methods and it can b
     - Affinity Propagation (AP)
   - Hierarchical clustering
     - Agglomerative
+     - Single-linkeage
+     - Average
+     - Complete
+     - Ward
+     - McQuitty
+     - Median
+     - Centroid
     - Divisive
   - Fuzzy clustering
     - Fuzzy C-means (FCM)
@@ -71,8 +81,35 @@ Time series clustering belongs to the unsupervised learning methods and it can b
     - Robust Continuous Clustering
  
  - cluster validity measures
-  - Global 
-  - Local
-  - Internal
-  - External
+  - CH Index
+  - Duda
+  - Pseutdot2
+  - C-index
+  - Gamma
+  - Beale
+  - CCC
+  - Ptbiserial
+  - Gplus
+  - DB Index
+  - Frey
+  - Hartigan
+  - Tau
+  - Ratkowsky
+  - Scott
+  - Ball
+  - Trcovw
+  - Tracew
+  - Friedman
+  - McClain
+  - Rubin
+  - KL Index
+  - Silhouette
+  - Gap Index
+  - Dindex
+  - Dunn
+  - Hubert statistic
+  - SDindex
+  - SDbw index
+  
+  
  
