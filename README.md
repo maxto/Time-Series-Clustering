@@ -81,35 +81,35 @@ Time series clustering belongs to the unsupervised learning methods and it can b
     - Robust Continuous Clustering
  
  - cluster validity measures
-  - CH Index
-  - Duda
-  - Pseutdot2
-  - C-index
-  - Gamma
-  - Beale
-  - CCC
-  - Ptbiserial
-  - Gplus
-  - DB Index
-  - Frey
-  - Hartigan
-  - Tau
-  - Ratkowsky
-  - Scott
-  - Ball
-  - Trcovw
-  - Tracew
-  - Friedman
-  - McClain
-  - Rubin
-  - KL Index
-  - Silhouette
-  - Gap Index
-  - Dindex
-  - Dunn
-  - Hubert statistic
-  - SDindex
-  - SDbw index
+    - CH Index
+    - Duda
+    - Pseutdot2
+    - C-index
+    - Gamma
+    - Beale
+    - CCC
+    - Ptbiserial
+    - Gplus
+    - DB Index
+    - Frey
+    - Hartigan
+    - Tau
+    - Ratkowsky
+    - Scott
+    - Ball
+    - Trcovw
+    - Tracew
+    - Friedman
+    - McClain
+    - Rubin
+    - KL Index
+    - Silhouette
+    - Gap Index
+    - Dindex
+    - Dunn
+    - Hubert statistic
+    - SDindex
+    - SDbw index
   
   
  
