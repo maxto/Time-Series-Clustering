@@ -20,13 +20,13 @@ Time series clustering belongs to the unsupervised learning methods and it can b
         - Kendall tau
       - Cross-Correlation
       - Dissim
-     - Elastic measure
+    - Elastic measure
       - Dynamic Time Warping (DTW)
       - Frechet distance
       - Longest Common Subsequence (LCSS)
       - Shape-based
       - U-Shapelets
-     - Kernel
+      - Kernel
       - Global Alignement Kernel (GAK)
   - Features-based
     - Partial/Autocorrelation
@@ -80,36 +80,48 @@ Time series clustering belongs to the unsupervised learning methods and it can b
   - continuous objective optimization
     - Robust Continuous Clustering
  
- - cluster validity measures
-    - CH Index
-    - Duda
-    - Pseutdot2
-    - C-index
-    - Gamma
-    - Beale
-    - CCC
-    - Ptbiserial
-    - Gplus
-    - DB Index
-    - Frey
-    - Hartigan
-    - Tau
-    - Ratkowsky
-    - Scott
-    - Ball
-    - Trcovw
-    - Tracew
-    - Friedman
-    - McClain
-    - Rubin
-    - KL Index
-    - Silhouette
-    - Gap Index
-    - Dindex
-    - Dunn
-    - Hubert statistic
-    - SDindex
-    - SDbw index
+ - Cluster Validity Index
+  - Internal
+    - Ball-Hall index
+    - Banfeld-Raftery index
+    - C index
+    - Calinski-Harabasz index
+    - Davies-Bouldin index
+    - Det Ratio index
+    - Dunn index
+    - Baker-Hubert Gamma index
+    - GDI index
+    - G plus index
+    - Ksq DetW index
+    - Log Det Ratio index
+    - Log SS Ratio index
+    - McClain-Rao index
+    - PBM index
+    - Point-Biserial
+    - Ratkowsky-Lance index
+    - Ray-Turi index
+    - Scott-Symons index
+    - SD index
+    - S Dbw index
+    - Silhouette index
+    - Tau index
+    - Trace W index
+    - Trace WiB index
+    - Wemmert-Gan¸carski index
+    - Xie-Beni index
+  - External
+    - Czekanowski-Dice index
+    - Folkes-Mallows index
+    - Hubert Γ indexˆ
+    - Jaccard index
+    - Kulczynski index
+    - McNemar index
+    - Phi index
+    - Rand index
+    - Rogers-Tanimoto index
+    - Russel-Rao index
+    - Sokal-Sneath indices
+    
   
   
  
