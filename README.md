@@ -81,46 +81,46 @@ Time series clustering belongs to the unsupervised learning methods and it can b
     - Robust Continuous Clustering
  
  - Cluster Validity Index
-  - Internal
-    - Ball-Hall index
-    - Banfeld-Raftery index
-    - C index
-    - Calinski-Harabasz index
-    - Davies-Bouldin index
-    - Det Ratio index
-    - Dunn index
-    - Baker-Hubert Gamma index
-    - GDI index
-    - G plus index
-    - Ksq DetW index
-    - Log Det Ratio index
-    - Log SS Ratio index
-    - McClain-Rao index
-    - PBM index
-    - Point-Biserial
-    - Ratkowsky-Lance index
-    - Ray-Turi index
-    - Scott-Symons index
-    - SD index
-    - S Dbw index
-    - Silhouette index
-    - Tau index
-    - Trace W index
-    - Trace WiB index
-    - Wemmert-Gan¸carski index
-    - Xie-Beni index
-  - External
-    - Czekanowski-Dice index
-    - Folkes-Mallows index
-    - Hubert Γ indexˆ
-    - Jaccard index
-    - Kulczynski index
-    - McNemar index
-    - Phi index
-    - Rand index
-    - Rogers-Tanimoto index
-    - Russel-Rao index
-    - Sokal-Sneath indices
+    - Internal
+      - Ball-Hall index
+      - Banfeld-Raftery index
+      - C index
+      - Calinski-Harabasz index
+      - Davies-Bouldin index
+      - Det Ratio index
+      - Dunn index
+      - Baker-Hubert Gamma index
+      - GDI index
+      - G plus index
+      - Ksq DetW index
+      - Log Det Ratio index
+      - Log SS Ratio index
+      - McClain-Rao index
+      - PBM index
+      - Point-Biserial
+      - Ratkowsky-Lance index
+      - Ray-Turi index
+      - Scott-Symons index
+      - SD index
+      - S Dbw index
+      - Silhouette index
+      - Tau index
+      - Trace W index
+      - Trace WiB index
+      - Wemmert-Gan¸carski index
+      - Xie-Beni index
+    - External
+      - Czekanowski-Dice index
+      - Folkes-Mallows index
+      - Hubert Γ indexˆ
+      - Jaccard index
+      - Kulczynski index
+      - McNemar index
+      - Phi index
+      - Rand index
+      - Rogers-Tanimoto index
+      - Russel-Rao index
+      - Sokal-Sneath indices
     
   
   
