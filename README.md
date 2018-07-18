@@ -127,4 +127,11 @@ Time series clustering belongs to the unsupervised learning methods and it can b
   - [TSclust](https://cran.r-project.org/web/packages/TSclust/index.html) A set of measures of dissimilarity between time series to perform time series clustering. Metrics based on raw data, on generating models and on the forecast behavior are implemented. Some additional utilities related to time series clustering are also provided, such as clustering algorithms and cluster evaluation metrics.
  
   - [dtwclust](https://cran.r-project.org/web/packages/dtwclust/index.html) Time series clustering along with optimized techniques related to the Dynamic Time Warping distance and its corresponding lower bounds. Implementations of partitional, hierarchical, fuzzy, k-Shape and TADPole clustering are available. Functionality can be easily extended with custom distance measures and centroid definitions. Implementations of DTW barycenter averaging, a distance based on global alignment kernels, and the soft-DTW distance and centroid routines are also provided. All included distance functions have custom loops optimized for the calculation of cross-distance matrices, including parallelization support. Several cluster validity indices are included.
+  
   - [TSrepr](https://cran.r-project.org/web/packages/TSrepr/index.html) Methods for representations (i.e. dimensionality reduction, preprocessing, feature extraction) of time series to help more accurate and effective time series data mining. Non-data adaptive, data adaptive, model-based and data dictated (clipped) representation methods are implemented. Also min-max and z-score normalisations, and forecasting accuracy measures are implemented.
+  
+  - [LPWC](https://cran.r-project.org/web/packages/LPWC/index.html) Computes a time series distance measure for clustering based on weighted correlation and introduction of lags. The lags capture delayed responses in a time series dataset. The timepoints must be specified.
+  
+  - [clValid](https://cran.r-project.org/web/packages/clValid/index.html) Statistical and biological validation of clustering results.
+  
+  - [NbClust](https://cran.r-project.org/web/packages/NbClust/index.html) It provides 30 indexes for determining the optimal number of clusters in a data set and offers the best clustering scheme from different results to the user.
