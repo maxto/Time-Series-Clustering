@@ -135,3 +135,7 @@ Time series clustering belongs to the unsupervised learning methods and it can b
   - [clValid](https://cran.r-project.org/web/packages/clValid/index.html) Statistical and biological validation of clustering results.
   
   - [NbClust](https://cran.r-project.org/web/packages/NbClust/index.html) It provides 30 indexes for determining the optimal number of clusters in a data set and offers the best clustering scheme from different results to the user.
+  
+  - [mclust](https://cran.r-project.org/web/packages/mclust/index.html) Gaussian finite mixture models fitted via EM algorithm for model-based clustering, classification, and density estimation, including Bayesian regularization, dimension reduction for visualisation, and resampling-based inference.
+  
+  - [clusterCrit](https://cran.r-project.org/web/packages/clusterCrit/index.html) Compute clustering validation indices. 
